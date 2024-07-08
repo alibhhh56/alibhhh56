@@ -1,1 +1,1 @@
-windowssystemadmin.duckdns.org:7000
+193.26.115.115:7000

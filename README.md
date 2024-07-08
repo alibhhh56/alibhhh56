@@ -1,1 +1,1 @@
-206.233.240.35:7000
+windowssystemadmin.duckdns.org:7000

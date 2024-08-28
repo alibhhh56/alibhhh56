@@ -1,1 +1,1 @@
-LicenseKey
+1
